@@ -5,7 +5,6 @@ class Pattern1
 	{
 		Scanner sc=new Scanner(System.in);
 		//int num=1;
-
 		int rows=sc.nextInt();
         int columns=sc.nextInt();
 		for(int i=1;i<=rows;i++){
@@ -22,3 +21,4 @@ class Pattern1
 		}
 	}
 }
+
